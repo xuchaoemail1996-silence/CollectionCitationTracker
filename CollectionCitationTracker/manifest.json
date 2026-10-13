@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Collection Citation Tracker / 分类引用标记",
+  "version": "1.0.1",
+  "description": "Mark cited/uncited items independently in each Zotero collection; adds a citation-status column and item context menu.",
+  "author": "ChatGPT (custom plugin)",
+  "applications": {
+    "zotero": {
+      "id": "collection-citation-tracker@local.zotero",
+      "strict_min_version": "9.0",
+      "strict_max_version": "9.0.*",
+      "update_url": "https://example.com/collection-citation-tracker/updates.json"
+    }
+  },
+  "homepage_url": "https://example.com/collection-citation-tracker"
+}
