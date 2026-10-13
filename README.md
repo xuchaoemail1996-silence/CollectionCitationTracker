@@ -6,7 +6,7 @@ Collection Citation Tracker 是一个面向论文写作和研究项目管理的 
 
 插件的核心特点是：**引用状态属于当前分类，同一篇文献在不同分类中的标记互不影响。** 适合为每篇论文、文献综述或研究项目分别建立 Zotero 分类的使用方式。
 
-[下载插件](https://github.com/xuchaomail1996-silence/CollectionCitationTracker/releases) · [反馈问题](https://github.com/xuchaomail1996-silence/CollectionCitationTracker/issues) · [作者主页](https://github.com/xuchaomail1996-silence)
+[下载插件](https://github.com/xuchaoemail1996-silence/CollectionCitationTracker/releases) · [反馈问题](https://github.com/xuchaoemail1996-silence/CollectionCitationTracker/issues) · [作者主页](https://github.com/xuchaoemail1996-silence)
 
 > 当前版本：**v1.0.1**  
 > 已实际使用的 Zotero 版本：**9.0.6**  
@@ -54,7 +54,7 @@ Collection Citation Tracker 是一个面向论文写作和研究项目管理的 
 
 ## 安装方法
 
-1. 打开本项目的 [Releases 页面](https://github.com/xuchaomail1996-silence/CollectionCitationTracker/releases)，进入对应版本，下载 `CollectionCitationTracker-1.0.1.xpi`。
+1. 打开本项目的 [Releases 页面](https://github.com/xuchaoemail1996-silence/CollectionCitationTracker/releases)，进入对应版本，下载 `CollectionCitationTracker-1.0.1.xpi`。
 2. 在 Zotero 中打开 **工具 → 插件（Tools → Plugins）**。
 3. 将下载的 `.xpi` 文件拖入插件管理窗口，按提示完成安装。也可以通过插件管理窗口中的“从文件安装”选项选择该文件。
 4. 返回 Zotero 主界面查看“引用状态”列；如果安装过程中提示重启，请按提示重启 Zotero。
@@ -223,7 +223,7 @@ Collection Citation Tracker 是一个面向论文写作和研究项目管理的 
 
 ## 问题反馈
 
-欢迎通过 [GitHub Issues](https://github.com/xuchaomail1996-silence/CollectionCitationTracker/issues) 反馈问题或提出功能建议。
+欢迎通过 [GitHub Issues](https://github.com/xuchaoemail1996-silence/CollectionCitationTracker/issues) 反馈问题或提出功能建议。
 
 报告问题时，请尽量提供：
 
@@ -248,4 +248,4 @@ Statuses are assigned manually and stored in the local Zotero profile. They do n
 
 The author has used the plugin in Zotero **9.0.6** during actual literature management and manuscript writing. The manifest targets Zotero **9.0.x**.
 
-Download the `.xpi` installation file from [Releases](https://github.com/xuchaomail1996-silence/CollectionCitationTracker/releases).
+Download the `.xpi` installation file from [Releases](https://github.com/xuchaoemail1996-silence/CollectionCitationTracker/releases).
